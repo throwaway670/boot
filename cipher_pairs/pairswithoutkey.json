@@ -1,0 +1,112 @@
+{
+  "caesar": [
+    {
+      "plaintext": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
+      "ciphertext": "AOL XBPJR IYVDU MVE QBTWZ VCLY AOL SHGF KVN"
+    },
+    {
+      "plaintext": "CRYPTOGRAPHY AND NETWORK SECURITY IS GOOD SUBJECT",
+      "ciphertext": "JYFWAVNYHWOF HUK ULADVYR ZLJBYPAF PZ NVVK ZBIQLJA"
+    },
+    {
+      "plaintext": "IS ANYONE EVEN GOING TO CHECK THIS",
+      "ciphertext": "PZ HUFVUL LCLU NVPUN AV JOLJR AOPZ"
+    },
+    {
+      "plaintext": "THIS IS A TOTALLY RANDOM PLAINTEXT FOR TESTING",
+      "ciphertext": "AOPZ PZ H AVAHSSF YHUKVT WSHPUALEA MVY ALZAPUN"
+    },
+    {
+      "plaintext": "HELLO WORLD THIS IS A SIMPLE TEST CASE FOR CIPHERS",
+      "ciphertext": "OLSSV DVYSK AOPZ PZ H ZPTWSL ALZA JHZL MVY JPWOLYZ"
+    }
+  ],
+  "monoalphabetic": [
+    {
+      "plaintext": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
+      "ciphertext": "QIL MHPVO EATJD WTB CHRUY TFLA QIL NGZS XTK"
+    },
+    {
+      "plaintext": "CRYPTOGRAPHY AND NETWORK SECURITY IS GOOD SUBJECT",
+      "ciphertext": "VASUQTKAGUIS GDX DLQJTAO YLVHAPQS PY KTTX YHECLVQ"
+    },
+    {
+      "plaintext": "IS ANYONE EVEN GOING TO CHECK THIS",
+      "ciphertext": "PY GDSTDL LFLD KTPDK QT VILVO QIPY"
+    },
+    {
+      "plaintext": "THIS IS A TOTALLY RANDOM PLAINTEXT FOR TESTING",
+      "ciphertext": "QIPY PY G QTQGNNS AGDXTR UNGPDQLBQ WTA QLYQPDK"
+    },
+    {
+      "plaintext": "HELLO WORLD THIS IS A SIMPLE TEST CASE FOR CIPHERS",
+      "ciphertext": "ILNNT JTANX QIPY PY G YPRUNL QLYQ VGYL WTA VPUILAY"
+    }
+  ],
+  "playfair": [
+    {
+      "plaintext": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
+      "ciphertext": "VFWNXGROCDKOMGWZGXNQZCUYFKGYHCVOCEIU"
+    },
+    {
+      "plaintext": "CRYPTOGRAPHY AND NETWORK SECURITY IS GOOD SUBJECT",
+      "ciphertext": "RDAVZKFDHVPADPGUKUOKFRNODZBFVKLQLEECNZIQODUZ"
+    },
+    {
+      "plaintext": "IS ANYONE EVEN GOING TO CHECK THIS",
+      "ciphertext": "LQDPWKUDYUDULEGQFUCLGYROVFLQ"
+    },
+    {
+      "plaintext": "THIS IS A TOTALLY RANDOM PLAINTEXT FOR TESTING",
+      "ciphertext": "VFLQLQRVKZCHHODBUGKSSHBHMUWUKMKCUKMZGQIU"
+    },
+    {
+      "plaintext": "HELLO WORLD THIS IS A SIMPLE TEST CASE FOR CIPHERS",
+      "ciphertext": "GYIZSCOKCFRUILQLPCQLNQGOUKMZRBNOLKDRHQGYCM"
+    }
+  ],
+  "hill": [
+    {
+      "plaintext": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
+      "ciphertext": "VVEMEKOYBDSWRTYFRAWZIAJGJNTAHOLCPOAJ"
+    },
+    {
+      "plaintext": "CRYPTOGRAPHY AND NETWORK SECURITY IS GOOD SUBJECT",
+      "ciphertext": "EJGTLGQHMFJYANJFWNUYHKAOWKVSTSCCYGIHSCFJYQNJ"
+    },
+    {
+      "plaintext": "IS ANYONE EVEN GOING TO CHECK THIS",
+      "ciphertext": "CCANAKLKIFMLYGYJCZCYTAOYVVCC"
+    },
+    {
+      "plaintext": "THIS IS A TOTALLY RANDOM PLAINTEXT FOR TESTING",
+      "ciphertext": "VVCCCCKPAVOVVWZYFBKKHHWUXPUXJDODDUMTYJAJ"
+    },
+    {
+      "plaintext": "HELLO WORLD THIS IS A SIMPLE TEST CASE FOR CIPHERS",
+      "ciphertext": "TAVJSWODZPVVCCCCEGSAHHWNQERCEGQRODCGJXKVKD"
+    }
+  ],
+  "vigenere": [
+    {
+      "plaintext": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
+      "ciphertext": "DLC MIZFU FPKKE IYB HQAGV YZCN HYH VEXU RFJ"
+    },
+    {
+      "plaintext": "CRYPTOGRAPHY AND NETWORK SECURITY IS GOOD SUBJECT",
+      "ciphertext": "MVWLHFJBENDM RQN RCPKFUU WCYIILDC GO UFRN WSXXVFD"
+    },
+    {
+      "plaintext": "IS ANYONE EVEN GOING TO CHECK THIS",
+      "ciphertext": "SW YJMFQO ITAB XRSRE PC TKOGI PVZV"
+    },
+    {
+      "plaintext": "THIS IS A TOTALLY RANDOM PLAINTEXT FOR TESTING",
+      "ciphertext": "DLGO WJ D DSRWZCB BELZCD SVEGJHVAD JMN HVVDMLC"
+    },
+    {
+      "plaintext": "HELLO WORLD THIS IS A SIMPLE TEST CASE FOR CIPHERS",
+      "ciphertext": "RIJHC NRBPB PVZV SW Y OWDSVI RAGK FKWC BCI FSTFAFJ"
+    }
+  ]
+}

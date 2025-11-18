@@ -1,0 +1,317 @@
+{
+  "caesar": [
+    {
+      "plaintext": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
+      "ciphertext": "BPM YCQKS JZWEV NWF RCUXA WDMZ BPM TIHG LWO",
+      "key": 8
+    },
+    {
+      "plaintext": "CRYPTOGRAPHY IS THE PRACTICE AND STUDY OF TECHNIQUES FOR SECURE COMMUNICATION",
+      "ciphertext": "KZGXBWOZIXPG QA BPM XZIKBQKM IVL ABCLG WN BMKPVQYCMA NWZ AMKCZM KWUUCVQKIBQWV",
+      "key": 8
+    },
+    {
+      "plaintext": "MEET ME AT THE USUAL PLACE AT TEN OCLOCK",
+      "ciphertext": "UMMB UM IB BPM CACIT XTIKM IB BMV WKTWKS",
+      "key": 8
+    },
+    {
+      "plaintext": "COMPUTER SCIENCE IS NO MORE ABOUT COMPUTERS THAN ASTRONOMY IS ABOUT TELESCOPES",
+      "ciphertext": "KWUXCBMZ AKQMVKM QA VW UWZM IJWCB KWUXCBMZA BPIV IABZWVWUG QA IJWCB BMTMAKWXMA",
+      "key": 8
+    },
+    {
+      "plaintext": "THE FAULT DEAR BRUTUS IS NOT IN OUR STARS BUT IN OURSELVES",
+      "ciphertext": "BPM NICTB LMIZ JZCBCA QA VWB QV WCZ ABIZA JCB QV WCZAMTDMA",
+      "key": 8
+    }
+  ],
+  "monoalphabetic": [
+    {
+      "plaintext": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
+      "ciphertext": "CGU PXLEW ZADKB VDN MXIOS DFUA CGU QRTJ YDH",
+      "key": {
+        "A": "R",
+        "B": "Z",
+        "C": "E",
+        "D": "Y",
+        "E": "U",
+        "F": "V",
+        "G": "H",
+        "H": "G",
+        "I": "L",
+        "J": "M",
+        "K": "W",
+        "L": "Q",
+        "M": "I",
+        "N": "B",
+        "O": "D",
+        "P": "O",
+        "Q": "P",
+        "R": "A",
+        "S": "S",
+        "T": "C",
+        "U": "X",
+        "V": "F",
+        "W": "K",
+        "X": "N",
+        "Y": "J",
+        "Z": "T"
+      }
+    },
+    {
+      "plaintext": "CRYPTOGRAPHY IS THE PRACTICE AND STUDY OF TECHNIQUES FOR SECURE COMMUNICATION",
+      "ciphertext": "EAJOCDHAROGJ LS CGU OARECLEU RBY SCXYJ DV CUEGBLPXUS VDA SUEXAU EDIIXBLERCLDB",
+      "key": {
+        "A": "R",
+        "B": "Z",
+        "C": "E",
+        "D": "Y",
+        "E": "U",
+        "F": "V",
+        "G": "H",
+        "H": "G",
+        "I": "L",
+        "J": "M",
+        "K": "W",
+        "L": "Q",
+        "M": "I",
+        "N": "B",
+        "O": "D",
+        "P": "O",
+        "Q": "P",
+        "R": "A",
+        "S": "S",
+        "T": "C",
+        "U": "X",
+        "V": "F",
+        "W": "K",
+        "X": "N",
+        "Y": "J",
+        "Z": "T"
+      }
+    },
+    {
+      "plaintext": "MEET ME AT THE USUAL PLACE AT TEN OCLOCK",
+      "ciphertext": "IUUC IU RC CGU XSXRQ OQREU RC CUB DEQDEW",
+      "key": {
+        "A": "R",
+        "B": "Z",
+        "C": "E",
+        "D": "Y",
+        "E": "U",
+        "F": "V",
+        "G": "H",
+        "H": "G",
+        "I": "L",
+        "J": "M",
+        "K": "W",
+        "L": "Q",
+        "M": "I",
+        "N": "B",
+        "O": "D",
+        "P": "O",
+        "Q": "P",
+        "R": "A",
+        "S": "S",
+        "T": "C",
+        "U": "X",
+        "V": "F",
+        "W": "K",
+        "X": "N",
+        "Y": "J",
+        "Z": "T"
+      }
+    },
+    {
+      "plaintext": "COMPUTER SCIENCE IS NO MORE ABOUT COMPUTERS THAN ASTRONOMY IS ABOUT TELESCOPES",
+      "ciphertext": "EDIOXCUA SELUBEU LS BD IDAU RZDXC EDIOXCUAS CGRB RSCADBDIJ LS RZDXC CUQUSEDOUS",
+      "key": {
+        "A": "R",
+        "B": "Z",
+        "C": "E",
+        "D": "Y",
+        "E": "U",
+        "F": "V",
+        "G": "H",
+        "H": "G",
+        "I": "L",
+        "J": "M",
+        "K": "W",
+        "L": "Q",
+        "M": "I",
+        "N": "B",
+        "O": "D",
+        "P": "O",
+        "Q": "P",
+        "R": "A",
+        "S": "S",
+        "T": "C",
+        "U": "X",
+        "V": "F",
+        "W": "K",
+        "X": "N",
+        "Y": "J",
+        "Z": "T"
+      }
+    },
+    {
+      "plaintext": "THE FAULT DEAR BRUTUS IS NOT IN OUR STARS BUT IN OURSELVES",
+      "ciphertext": "CGU VRXQC YURA ZAXCXS LS BDC LB DXA SCRAS ZXC LB DXASUQFUS",
+      "key": {
+        "A": "R",
+        "B": "Z",
+        "C": "E",
+        "D": "Y",
+        "E": "U",
+        "F": "V",
+        "G": "H",
+        "H": "G",
+        "I": "L",
+        "J": "M",
+        "K": "W",
+        "L": "Q",
+        "M": "I",
+        "N": "B",
+        "O": "D",
+        "P": "O",
+        "Q": "P",
+        "R": "A",
+        "S": "S",
+        "T": "C",
+        "U": "X",
+        "V": "F",
+        "W": "K",
+        "X": "N",
+        "Y": "J",
+        "Z": "T"
+      }
+    }
+  ],
+  "playfair": [
+    {
+      "plaintext": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
+      "ciphertext": "QBHMXCFCENWARKQWCXLRGWRFNMBSOPUBAQIW",
+      "key": "PRADNYESH"
+    },
+    {
+      "plaintext": "CRYPTOGRAPHY IS THE PRACTICE AND STUDY OF TECHNIQUES FOR SECURE COMMUNICATION",
+      "ciphertext": "FPCYLQFADRBEGHQBYRADKLKFSRPNBOXPSLKMYFBDQXVYEGMAHSLPEFGLQVLVDKGPQKTA",
+      "key": "PRADNYESH"
+    },
+    {
+      "plaintext": "MEET ME AT THE USUAL PLACE AT TEN OCLOCK",
+      "ciphertext": "VFBMVFNOQBYVYWPOYUPGSRQZMBATLULGIZ",
+      "key": "PRADNYESH"
+    },
+    {
+      "plaintext": "COMPUTER SCIENCE IS NO MORE ABOUT COMPUTERS THAN ASTRONOMY IS ABOUT TELESCOPES",
+      "ciphertext": "GLLRZLFEYGFHPKHFBAQOMASRSTZLGLLRZLFEBOSDPDBOAMATLEGHNSLWQZMBMYYGLASH",
+      "key": "PRADNYESH"
+    },
+    {
+      "plaintext": "THE FAULT DEAR BRUTUS IS NOT IN OUR STARS BUT IN OURSELVES",
+      "ciphertext": "QBFMPWMLRHDAENZLWYGHATQKATVPBODAHYZLKDLWAEYMRFHW",
+      "key": "PRADNYESH"
+    }
+  ],
+  "hill": [
+    {
+      "plaintext": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
+      "ciphertext": "VVEMEKOYBDSWRTYFRAWZIAJGJNTAHOLCPOAJ",
+      "key": [
+        [
+          3,
+          6
+        ],
+        [
+          6,
+          9
+        ]
+      ]
+    },
+    {
+      "plaintext": "CRYPTOGRAPHY IS THE PRACTICE AND STUDY OF TECHNIQUES FOR SECURE COMMUNICATION",
+      "ciphertext": "EJGTLGQHMFJYCCVVYDZYQBKOMYFBMTARAKZTYQVDQKGAGXODAOWKXIMIEYIDKOKPESVZ",
+      "key": [
+        [
+          3,
+          6
+        ],
+        [
+          6,
+          9
+        ]
+      ]
+    },
+    {
+      "plaintext": "MEET ME AT THE USUAL PLACE AT TEN OCLOCK",
+      "ciphertext": "IEWNIEKPVVCWSCOVHHMSMYPZMLCYNKOY",
+      "key": [
+        [
+          3,
+          6
+        ],
+        [
+          6,
+          9
+        ]
+      ]
+    },
+    {
+      "plaintext": "COMPUTER SCIENCE IS NO MORE ABOUT COMPUTERS THAN ASTRONOMY IS ABOUT TELESCOPES",
+      "ciphertext": "MIWZSFKVOWWGZSISCRKKODMYJCSFMIWZSFKVMTVQNAMTFUTWYCCCGJGEPZATQEMIRWKD",
+      "key": [
+        [
+          3,
+          6
+        ],
+        [
+          6,
+          9
+        ]
+      ]
+    },
+    {
+      "plaintext": "THE FAULT DEAR BRUTUS IS NOT IN OUR STARS BUT IN OURSELVES",
+      "ciphertext": "VVQRQYRDHCYXBDSFMWCCTWBETWGNMTYXINSFYJGEDEATJGKD",
+      "key": [
+        [
+          3,
+          6
+        ],
+        [
+          6,
+          9
+        ]
+      ]
+    }
+  ],
+  "vigenere": [
+    {
+      "plaintext": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
+      "ciphertext": "DLP KMSCB LVZQF POO TYXJK YVVB XSY DKZP NSR",
+      "key": "KELUSKAR"
+    },
+    {
+      "plaintext": "CRYPTOGRAPHY IS THE PRACTICE AND STUDY OF TECHNIQUES FOR SECURE COMMUNICATION",
+      "ciphertext": "MVJJLYGIKTSS AC TYO TCUUDITO EYX KDUUI SQ NWMHESUFYK POI CINOJO CFWQFHAMAKSSY",
+      "key": "KELUSKAR"
+    },
+    {
+      "plaintext": "MEET ME AT THE USUAL PLACE AT TEN OCLOCK",
+      "ciphertext": "WIPN EO AK DLP OKEAC ZPLWW KT KOR ZWDYCB",
+      "key": "KELUSKAR"
+    },
+    {
+      "plaintext": "COMPUTER SCIENCE IS NO MORE ABOUT COMPUTERS THAN ASTRONOMY IS ABOUT TELESCOPES",
+      "ciphertext": "MSXJMDEI CGTYFME ZC RZ GGBE RLSFN UYMGEXPLK DHRX EDNJYNFWC TM SLOLD XPFWCCFZID",
+      "key": "KELUSKAR"
+    },
+    {
+      "plaintext": "THE FAULT DEAR BRUTUS IS NOT IN OUR STARS BUT IN OURSELVES",
+      "ciphertext": "DLP ZSELK NILL TBUKEW TM FYT ZX SFL KDAIC FFN AX OLBWPFNOS",
+      "key": "KELUSKAR"
+    }
+  ]
+}
